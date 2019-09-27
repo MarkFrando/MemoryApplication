@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="app_name_title">Guess</string>
+    <string name="app_name_play">PLAY</string>
+    <string name="app_name_scores">Scores</string>
+    <string name="app_game_1">0</string>
+    <string name="app_game_2">0</string>
+    <string name="app_game_3">0</string>
+    <string name="app_game_4">0</string>
+    <string name="app_game_memorize">Memorized</string>
+    <string name="app_gnum_title">Guess the Number</string>
+    <string name="app_gnum"></string>
+    <string name="app_gnum_1">1</string>
+    <string name="app_gnum_2">2</string>
+    <string name="app_gnum_3">3</string>
+    <string name="app_gnum_4">4</string>
+    <string name="app_gnum_5">5</string>
+    <string name="app_gnum_6">6</string>
+    <string name="app_gnum_7">7</string>
+    <string name="app_gnum_8">8</string>
+    <string name="app_gnum_9">9</string>
+    <string name="app_gnum_0">0</string>
+    <string name="app_gcol_title">Guess the Colour</string>
+    <string name="app_score">Your Score is:\n0</string>
+    <string name="app_hiscore">The current Hiscore is held by - at - points.</string>
+    <string name="app_hiscore_play">Play Again</string>
+    <string name="app_hiscore_title">Score</string>
+    <string name="app_hiscore_score"></string>
+    <string name="app_hiscore_find">Find Name</string>
+    <string name="app_hiscore_back">BACK</string>
+    <string name="app_hiscore_delete">Delete Name</string>
+</resources>
